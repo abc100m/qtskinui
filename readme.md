@@ -3,13 +3,13 @@
 亮点：
 
 
-#1. res目录下有N多种控件的图片, 应用output目录下的globalqss.config 即可将默认的控件都变成很漂亮
+###1. res目录下有N多种控件的图片, 应用output目录下的globalqss.config 即可将默认的控件都变成很漂亮
 ```cpp
     QApplication a(argc, argv);
     a.setStyleSheet(load_txt_file(app_path() + QStringLiteral("globalqss.config")));
 ```
 
-#2. UI界面都从Base_Widget继承，例如：
+###2. UI界面都从Base_Widget继承，例如：
 ```cpp
 //这是主界面, 从QWidget继承
 class Main_Form : public Base_Widget<QWidget> {
@@ -22,7 +22,7 @@ class About_Form : public Base_Widget<QDialog> {
 };
 ```
 
-#3. 所有UI的设计都用Qt Designer完成，然后再加载进对话框。示例代码：
+###3. 所有UI的设计都用Qt Designer完成，然后再加载进对话框。示例代码：
 ```cpp
 namespace Ui {
     class UI_About;  //这个类Qt Designer设计好.ui文件后自动生成
@@ -43,7 +43,7 @@ private:
 
 ```
 
-#4. 效果示例：
+###4. 效果示例：
 请打开output目录下的 qtskinui.exe, 然后换几个图片。
 
 
