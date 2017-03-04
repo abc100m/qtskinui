@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>edit/arrow_redo.png</file>
+        <file>edit/arrow_undo.png</file>
+        <file>edit/attach.png</file>
+        <file>edit/book_addresses.png</file>
+        <file>edit/bullet_white.png</file>
+        <file>edit/cut.png</file>
+        <file>edit/date.png</file>
+        <file>edit/email.png</file>
+        <file>edit/group_add.png</file>
+        <file>edit/html.png</file>
+        <file>edit/page_copy.png</file>
+        <file>edit/palette.png</file>
+        <file>edit/paste_word.png</file>
+        <file>edit/r_i.png</file>
+        <file>edit/r_s.png</file>
+        <file>edit/r_w.png</file>
+        <file>edit/tag_blue.png</file>
+        <file>edit/Text.png</file>
+        <file>edit/text_align_center.png</file>
+        <file>edit/text_align_justify.png</file>
+        <file>edit/text_align_left.png</file>
+        <file>edit/text_align_right.png</file>
+        <file>edit/text_bold.png</file>
+        <file>edit/text_indent.png</file>
+        <file>edit/text_indent_remove.png</file>
+        <file>edit/text_italic.png</file>
+        <file>edit/text_list_bullets.png</file>
+        <file>edit/text_list_numbers.png</file>
+        <file>edit/text_lowercase.png</file>
+        <file>edit/text_underline.png</file>
+        <file>edit/text_uppercase.png</file>
+        <file>edit/time.png</file>
+        <file>edit/txt_list_clear.png</file>
+        <file>edit/user.png</file>
+    </qresource>
+</RCC>
