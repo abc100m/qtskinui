@@ -47,6 +47,11 @@ private:
 请打开output目录下的 qtskinui.exe, 然后换几个图片。
 
 
-怎么样？效果满意吧！
+怎么样？效果满意吧？来看看效果图:
 
+
+![](docimg/img1.png) 
+![](docimg/img2.png) 
+![](docimg/img3.png) 
+![](docimg/img4.png) 
 
